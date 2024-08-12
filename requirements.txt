@@ -11,4 +11,4 @@ streamlit==1.37.1
 wordcloud==1.9.3
 matplotlib
 seaborn==0.13.2
-python -m spacy download en_core_web_sm
+
