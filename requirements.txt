@@ -1,5 +1,5 @@
 spacy
-en-core-web-md
+en-core-web-md==3.7.1
 nltk
 textblob
 gensim
